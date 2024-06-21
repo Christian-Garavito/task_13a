@@ -1,0 +1,8 @@
+#Entornos virtuales de Python
+venv/
+env/
+ENV/
+
+#Archivos de configuración sensibles
+config.py
+.env
